@@ -1,0 +1,5 @@
+nderstand the above diagram well and good, but if you don’t, you need not worry, I will be explaining these operations in this Git Tutorial one by one. Let us begin with the basic operations.
+
+You need to install Git on your system first. If you need help with the installation, click here.
+
+In this Git Tutorial, I will show you the commands and the operations using Git Bash
